@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Lipika Biswas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #6c63ff;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            display: flex;
+            justify-content: center;
+        }
+        nav a {
+            color: white;
+            padding: 1em;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background: #575757;
+        }
+        .container {
+            padding: 2em;
+        }
+        .section-title {
+            color: #6c63ff;
+            border-bottom: 2px solid #6c63ff;
+            display: inline-block;
+            margin-bottom: 0.5em;
+        }
+        .contact-info {
+            margin-top: 1em;
+        }
+        .contact-info p {
+            margin: 0.5em 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr. Lipika Biswas</h1>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#academic">Academic Records</a>
+        <a href="#research">Research Work</a>
+        <a href="#publications">Publications</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2 class="section-title">About Me</h2>
+            <p>I am Dr. Lipika Biswas, a scholar with a Ph.D. in Comparative Literature from Jadavpur University. My research interests include Buddhist and Jain Devabhavana in Bengali Mangalkavya, with a focus on the exploration and analysis of mythological and folk elements. I have a robust academic background with several publications and presentations in national and international seminars.</p>
+        </section>
+        <section id="academic">
+            <h2 class="section-title">Academic Records</h2>
+            <ul>
+                <li>Ph.D. in Comparative Literature, Jadavpur University (2018-2023)</li>
+                <li>M.Phil. in Comparative Literature, Jadavpur University (2016-2018) - 58.50%</li>
+                <li>M.A. in Bengali Honours, Jadavpur University (2014-2016) - 64.60%</li>
+                <li>M.A. in English Honours, MJPRU (Ongoing)</li>
+                <li>PGJMC in Journalism & Mass Communication, IGNOU (Ongoing)</li>
+                <li>B.A. in Bengali Honours, Ram Mohan College (2011-2014) - 59.75%</li>
+                <li>H.S. in Arts, Dhuliyan Balika Vidyalaya (WBCHSE) (2009-2011) - 71%</li>
+                <li>Secondary in Arts & Science, Par Lal Pur High School (WBBSE) (2009) - 70%</li>
+            </ul>
+        </section>
+        <section id="research">
+            <h2 class="section-title">Research Work</h2>
+            <p>My research primarily focuses on the intersection of Buddhist and Jain philosophical traditions with Bengali literature. Key works include:</p>
+            <ul>
+                <li>Ph.D. Thesis: "Buddhist and Jain Devabhavana in Bengali Mangalkavya: Exploration and Analysis of Mythological and Folk Elements"</li>
+                <li>M.Phil. Thesis: "Buddhist Devabhavana in Bengali Mangalkavya: Mythological and Folk Elements"</li>
+            </ul>
+        </section>
+        <section id="publications">
+            <h2 class="section-title">Publications</h2>
+            <ul>
+                <li>Biswas, Lipika (2017). Local Vaishnavism around Sri Sri Madanamohan Jeew Temple at Gupta Vrindavan Ramkeli of Gourbanga: A Fieldwork Based Study. Kolkata: Jadavpur University. (ISBN: 978-93-83660-41-4)</li>
+                <li>Biswas, Lipika (2018). Titas is the name of a river: Novel internal professional identity and transition. Kolkata: Citadel publishers. (ISBN: 978-93-5321-52-0)</li>
+                <li>Biswas, Lipika (2018). Religious, Social and Cultural Significance of Buddhist Thought in Selected Mangalkavya. Kolkata: Jadavpur University. (ISBN: 978-93-83660-48-4)</li>
+                <li>Biswas, Lipika (2019). Chilekothar Sepai: The eternal lesson of the mass uprising. Kolkata: Diya Publication. (ISBN: 978-93-87003-14-9)</li>
+                <li>Biswas, Lipika (2019). The Presence of Buddhist Devabhavana in Selected Mangalkavya: A Re-examination in the Light of Bengali Literary History. Kolkata: Jadavpur University. (ISBN: 978-93-83660-79-7)</li>
+                <li>Several articles in journals such as "In the Light of the Philosophy of Love-Mind: The Novel 'Dana'" (ISSN No. 2394-4439) and "Development of Buddhism and its reflection in Bengali literature of Mangalkavya" (e-ISSN No. 2583-0848)</li>
+            </ul>
+        </section>
+        <section id="experience">
+            <h2 class="section-title">Experience</h2>
+            <ul>
+                <li>Teaching experience in UG & PG courses of Comparative Literature at Jadavpur University since January 2, 2019.</li>
+                <li>Translation work with Sikh Education Foundation (2022-2023).</li>
+                <li>Various seminar and workshop presentations, including topics like "Local Vaishnavism around Sri Sri Madanamohan Jeew Temple" and "Perspective of Attaining Divine Power by Women in Mahayana Buddhist Tantric Philosophy".</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2 class="section-title">Contact</h2>
+            <div class="contact-info">
+                <p><strong>Address:</strong> 301 Manasha Apartment, 218 Subhas Nagar Bye Lane, South Dum Dum (Cantonment) Kolkata-700065</p>
+                <p><strong>Current Address:</strong> MIG Flat-36, Prasad Nagar phase-1, Near Police Station, New Delhi-110005</p>
+                <p><strong>Phone:</strong> +91 9051089109</p>
+                <p><strong>Email:</strong> <a href="mailto:Lipikasb@gmail.com">Lipikasb@gmail.com</a></p>
+                <p><strong>Date of Birth:</strong> 04/03/1994</p>
+                <p><strong>Languages:</strong> Bengali, English, Hindi, Sanskrit, Pali</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
